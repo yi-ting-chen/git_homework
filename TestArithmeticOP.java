@@ -5,6 +5,8 @@ package module01_06;
 public class TestArithmeticOP {
 
 	public static void main(String[] args) {
+		int num;
+		int nummmm;
 		int num1 = 5, num2 = 2;
 		double numD = 2.0;
 		System.out.println(num1 + num2);
